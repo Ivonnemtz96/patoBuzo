@@ -1,137 +1,276 @@
-<section class="vs-hero-wrapper vs-hero-layout2">
-      <div
-        class="vs-hero-carousel navprevnext-white"
-        data-height="500px"
-        data-navprevnext="true"
-      >
-        <div
-          class="vs-hero-slide ls-slide"
-          data-ls="duration: 7000; transition2d: 5;"
-        >
-          <img
-            src="assets/img/hero/hero-img-3-1.jpg"
-            alt="Slide Image"
-            class="ls-bg"
-          />
-          <span
-            class="hero-subtitle text-theme ls-l ls-responsive ls-hide-phone"
-            data-ls-mobile="font-size: 82px; top: 120px;"
-            data-ls-tablet="font-size: 62px; top: 50px;"
-            data-ls-desktop="font-size: 48px; top: 80px;"
-            style="
+<section class="vs-hero-wrapper vs-hero-layout4">
+    <div class="vs-hero-carousel navprevnext-white" data-height="550px" data-navprevnext="true">
+        <div class="vs-hero-slide ls-slide" data-ls="duration: 7000;
+                    transition2d: 5;">
+            <img src="assets/img/hero/hero-img-1-2.jpg" alt="Slide Image" class="ls-bg" data-ls="bgsize: cover;"
+                style="margin-top: -1rem;" />
+            <span class="hero-subtitle text-white text-font3 h1 ls-l" style="
               left: 50%;
-              font-family: 'Cookie', cursive;
+              top: 140px;
+              font-size: 62px;
+              white-space: normal;
+              width: 860px;
               text-align: center;
-            "
-            data-ls="offsetxin: -200; durationin: 1000; delayin: 600; easingin:easeOutQuint; offsetxout: -50; durationout: 1000;"
-            >Good Food Good Mood</span
-          >
-          <h1
-            class="hero-title text-white ls-l ls-responsive"
-            data-ls-mobile="top: 50px; width: 1000px; font-size: 90px; line-height: 110px;"
-            data-ls-desktop="top: 140px; width: 850px; font-size: 80px; line-height: 90px;"
-            style="left: 50%; white-space: normal; text-align: center"
-            data-ls="offsetxin: 100; durationin: 1000; delayin: 700; easingin:easeOutQuint; offsetxout: 50; durationout: 1000;"
-          >
-            Deliciousness jumping into the mouth
-          </h1>
-          <div
-            class="hero-btn ls-l ls-responsive"
-            data-ls-mobile="top: 300px; width: 380px; height: 120px; line-height: 120px; font-size: 48px;"
-            data-ls-tablet="top: 360px; width: 250px; height: 80px; line-height: 80px; font-size: 22px;"
-            data-ls-desktop="top: 360px; width: 180px; height: 60px; line-height: 60px; font-size: 18px;"
-            style="left: 50%; overflow: hidden; border-radius: 50px"
-            data-ls="delayin: 1100; showinfo:1; durationin:2000; easingin:easeOutExpo; scalexin:1.5; scaleyin:1.7; scalexout:0; scaleyout: 0; fadein:false; fadeout: false; transformoriginin:50% 143.8% 0;"
-          >
-            <a href="contact.html" class="vs-btn mask-style1">Book Now</a>
-          </div>
-        </div>
-        <div
-          class="vs-hero-slide ls-slide"
-          data-ls="duration: 7000; transition2d: 5;"
-        >
-          <img
-            src="assets/img/hero/hero-img-3-2.jpg"
-            alt="Slide Image"
-            class="ls-bg"
-          />
-          <span
-            class="hero-subtitle text-theme ls-l ls-responsive ls-hide-phone"
-            data-ls-mobile="font-size: 82px; top: 120px;"
-            data-ls-tablet="font-size: 62px; top: 50px;"
-            data-ls-desktop="font-size: 48px; top: 80px;"
-            style="
+            " data-ls="offsetxin: -200; durationin: 1000; delayin:
+                        600; easingin:easeOutQuint; offsetxout: -50;
+                        durationout: 1000;">Bienvenidos a</span>
+            <h1 class="hero-title text-white ls-l" style="
               left: 50%;
-              font-family: 'Cookie', cursive;
+              top: 245px;
+              width: 850px;
+              font-size: 130px;
+              white-space: normal;
               text-align: center;
-            "
-            data-ls="offsetxin: -200; durationin: 1000; delayin: 600; easingin:easeOutQuint; offsetxout: -50; durationout: 1000;"
-            >Enjoy Food Enjoy Life</span
-          >
-          <h1
-            class="hero-title text-white ls-l ls-responsive"
-            data-ls-mobile="top: 50px; width: 1000px; font-size: 90px; line-height: 110px;"
-            data-ls-desktop="top: 140px; width: 850px; font-size: 80px; line-height: 90px;"
-            style="left: 50%; white-space: normal; text-align: center"
-            data-ls="offsetxin: 100; durationin: 1000; delayin: 700; easingin:easeOutQuint; offsetxout: 50; durationout: 1000;"
-          >
-            Enjoy delicious food with family
-          </h1>
-          <div
-            class="hero-btn ls-l ls-responsive"
-            data-ls-mobile="top: 300px; width: 380px; height: 120px; line-height: 120px; font-size: 48px;"
-            data-ls-tablet="top: 360px; width: 250px; height: 80px; line-height: 80px; font-size: 22px;"
-            data-ls-desktop="top: 360px; width: 180px; height: 60px; line-height: 60px; font-size: 18px;"
-            style="left: 50%; overflow: hidden; border-radius: 50px"
-            data-ls="delayin: 1100; showinfo:1; durationin:2000; easingin:easeOutExpo; scalexin:1.5; scaleyin:1.7; scalexout:0; scaleyout: 0; fadein:false; fadeout: false; transformoriginin:50% 143.8% 0;"
-          >
-            <a href="contact.html" class="vs-btn mask-style1">Book Now</a>
-          </div>
-        </div>
-        <div
-          class="vs-hero-slide ls-slide"
-          data-ls="duration: 7000; transition2d: 5;"
-        >
-          <img
-            src="assets/img/hero/hero-img-3-3.jpg"
-            alt="Slide Image"
-            class="ls-bg"
-          />
-          <span
-            class="hero-subtitle text-theme ls-l ls-responsive ls-hide-phone"
-            data-ls-mobile="font-size: 82px; top: 120px;"
-            data-ls-tablet="font-size: 62px; top: 50px;"
-            data-ls-desktop="font-size: 48px; top: 80px;"
-            style="
+              line-height: 90px;
+            " data-ls="offsetxin: 100; durationin: 1000; delayin: 700;
+                        easingin:easeOutQuint; offsetxout: 50; durationout:
+                        1000;">
+                Pato <br> Buzo
+            </h1>
+            <div class="hero-btn ls-l" style="
               left: 50%;
-              font-family: 'Cookie', cursive;
-              text-align: center;
-            "
-            data-ls="offsetxin: -200; durationin: 1000; delayin: 600; easingin:easeOutQuint; offsetxout: -50; durationout: 1000;"
-            >Stay Healthy Stay Strong</span
-          >
-          <h1
-            class="hero-title text-white ls-l ls-responsive"
-            data-ls-mobile="top: 50px; width: 1000px; font-size: 90px; line-height: 110px;"
-            data-ls-desktop="top: 140px; width: 850px; font-size: 80px; line-height: 90px;"
-            style="left: 50%; white-space: normal; text-align: center"
-            data-ls="offsetxin: 100; durationin: 1000; delayin: 700; easingin:easeOutQuint; offsetxout: 50; durationout: 1000;"
-          >
-            Diet healthy fruits in every morning
-          </h1>
-          <div
-            class="hero-btn ls-l ls-responsive"
-            data-ls-mobile="top: 300px; width: 380px; height: 120px; line-height: 120px; font-size: 48px;"
-            data-ls-tablet="top: 360px; width: 250px; height: 80px; line-height: 80px; font-size: 22px;"
-            data-ls-desktop="top: 360px; width: 180px; height: 60px; line-height: 60px; font-size: 18px;"
-            style="left: 50%; overflow: hidden; border-radius: 50px"
-            data-ls="delayin: 1100; showinfo:1; durationin:2000; easingin:easeOutExpo; scalexin:1.5; scaleyin:1.7; scalexout:0; scaleyout: 0; fadein:false; fadeout: false; transformoriginin:50% 143.8% 0;"
-          >
-            <a href="contact.html" class="vs-btn mask-style1">Book Now</a>
-          </div>
+              top: 425px;
+              width: 180px;
+              height: 60px;
+              overflow: hidden;
+              border-radius: 50px;
+              line-height: 60px;
+              font-size: 18px;
+              margin-top:40px;
+            " data-ls="delayin: 1100; showinfo:1;
+                        durationin:2000; easingin:easeOutExpo; scalexin:0.9;
+                        scaleyin:0.9; scalexout:1.1; scaleyout: 1.1;
+                        fadein:true; fadeout: true; transformoriginin:50% 143.8%
+                        0;">
+                <a href="menu.php" class="vs-btn mask-style1">Ver menú</a>
+            </div>
         </div>
-      </div>
-    </section>
+        <div class="vs-hero-slide ls-slide" data-ls="duration: 7000; transition2d: 5;">
+            <img src="assets/img/hero/hero-img-1-2.jpg" alt="Slide Image" class="ls-bg" data-ls="bgsize: cover;" />
+            <span class="hero-subtitle text-white text-font3 h1 ls-l" style="
+              left: 50%;
+              top: 140px;
+              font-size: 62px;
+              white-space: normal;
+              width: 860px;
+              text-align: center;
+            " data-ls="offsetxin: -200; durationin: 1000; delayin:
+                        600; easingin:easeOutQuint; offsetxout: -50;
+                        durationout: 1000;">Expertos en</span>
+            <h1 class="hero-title text-white ls-l" style="
+              left: 50%;
+              top: 245px;
+              width: 850px;
+              font-size: 130px;
+              white-space: normal;
+              text-align: center;
+              line-height: 90px;
+            " data-ls="offsetxin: 100; durationin: 1000; delayin: 700;
+                        easingin:easeOutQuint; offsetxout: 50; durationout:
+                        1000;">
+                Mariscos
+            </h1>
+            <p class="ls-l text-white" style="
+              left: 50%;
+              top: 368px;
+              width: 900px;
+              font-size: 18px;
+              white-space: normal;
+              text-transform: uppercase;
+              text-align: center;
+            " data-ls="delayin: 800; showinfo:1;
+                        durationin:1000; scalexin:0.8; scaleyin:0.8;
+                        scalexout:1.1; scaleyout: 1.1;">
+                Mariscos frescos, placer instantáneo
+            </p>
+            <span class="shape1 ls-l" style="
+              left: 300px;
+              top: 379px;
+              width: 80px;
+              height: 2px;
+              background-color: #ffffff;
+            " data-ls="offsetxin:
+                        -100; durationin: 1000; delayin: 1500;
+                        easingin:easeOutQuint; offsetxout: -50; durationout:
+                        1000;"></span>
+            <span class="shape2 ls-l" style="
+              left: 840px;
+              top: 379px;
+              width: 80px;
+              height: 2px;
+              background-color: #ffffff;
+            " data-ls="offsetxin: 100;
+                        durationin: 1000; delayin: 1500; easingin:easeOutQuint;
+                        offsetxout: 50; durationout: 1000;"></span>
+            <div class="hero-btn ls-l" style="
+              left: 50%;
+              top: 425px;
+              width: 180px;
+              height: 60px;
+              overflow: hidden;
+              border-radius: 50px;
+              line-height: 60px;
+              font-size: 18px;
+            " data-ls="delayin: 1100; showinfo:1;
+                        durationin:2000; easingin:easeOutExpo; scalexin:0.9;
+                        scaleyin:0.9; scalexout:1.1; scaleyout: 1.1;
+                        fadein:true; fadeout: true; transformoriginin:50% 143.8%
+                        0;">
+                <a href="#gallery" class="vs-btn mask-style1">Ver galería</a>
+            </div>
+        </div>
+        <div class="vs-hero-slide ls-slide" data-ls="duration: 7000; transition2d: 5;">
+            <img src="assets/img/hero/hero-img-1-2.jpg" alt="Slide Image" class="ls-bg" data-ls="bgsize: cover;" />
+            <span class="hero-subtitle text-white text-font3 h1 ls-l" style="
+              left: 50%;
+              top: 140px;
+              font-size: 62px;
+              white-space: normal;
+              width: 860px;
+              text-align: center;
+            " data-ls="offsetxin: -200; durationin: 1000; delayin:
+                        600; easingin:easeOutQuint; offsetxout: -50;
+                        durationout: 1000;">¿Ya nos conoces?</span>
+            <h1 class="hero-title text-white ls-l" style="
+              left: 50%;
+              top: 245px;
+              width: 850px;
+              font-size: 130px;
+              white-space: normal;
+              text-align: center;
+              line-height: 90px;
+            " data-ls="offsetxin: 100; durationin: 1000; delayin: 700;
+                        easingin:easeOutQuint; offsetxout: 50; durationout:
+                        1000;">
+                Pato Buzo
+            </h1>
+
+            <div class="hero-btn ls-l" style="
+              left: 50%;
+              top: 425px;
+              width: 180px;
+              height: 60px;
+              overflow: hidden;
+              border-radius: 50px;
+              line-height: 60px;
+              font-size: 18px;
+              margin-top:40px;
+            " data-ls="delayin: 1100; showinfo:1;
+                        durationin:2000; easingin:easeOutExpo; scalexin:0.9;
+                        scaleyin:0.9; scalexout:1.1; scaleyout: 1.1;
+                        fadein:true; fadeout: true; transformoriginin:50% 143.8%
+                        0;">
+                <a href="#contact" class="vs-btn mask-style1">Reservar</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="vs-about-wrapper vs-about-layout8 pt-lg-150 pt-60 pb-lg-120 pb-30" id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 col-lg-6 mb-30">
+                <div class="about-image image-box4 position-relative">
+                    <img src="assets/img/about/about-img-8-1.jpg" alt="About Us Image" />
+                    <div class="small-img">
+                        <img src="assets/img/about/about-img-8-2.jpg" alt="About Us Image" />
+                    </div>
+                    <div class="border-exp-box">
+                        <span class="counter text-theme">27</span>
+                        <p class="exp-text text-xs mb-0">Year Experience</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 mb-30 align-self-center">
+                <span class="h3 text-font3 text-theme d-block mb-3">About Us</span>
+                <h2 class="sec-title1 mb-lg-35">
+                    We will make your night delicious.
+                </h2>
+                <p class="text-20 mb-lg-4 pb-1 lh-32">
+                    Compellingly engage backend technology and 2.0 strategic theme
+                    areas. Distinctively simplify world-class portals.
+                </p>
+                <p class="mb-lg-45">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                    enim ad minim veniam, quis nostrud exercitation ullamco laboris
+                    nisi ut aliquip.
+                </p>
+                <div class="vs-btn-group">
+                    <a href="menu.html" class="vs-btn style1">Our Menus</a>
+                    <a href="menu.html" class="vs-btn style-outline">Learn More</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="vs-counter-area counter-layout1 background-image bg-fixed pt-lg-140 pt-50 pb-lg-120 pb-30"
+    data-vs-img="assets/img/counter/counter-bg-1-1.jpg" data-overlay="title" data-opacity="7">
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-sm-6 col-md-auto">
+                <div class="media align-items-center mb-30 d-block d-xl-flex text-center text-xl-left">
+                    <div class="media-icon pb-3 pb-xl-0 pr-xl-25">
+                        <span class="text-theme"><i class="flaticon-mission-accomplished icon-3x"></i></span>
+                    </div>
+                    <div class="media-body">
+                        <h2 class="h1 text-white mb-0">
+                            <span class="counter">25</span>
+                        </h2>
+                        <p class="counter-text text-white text-md mb-0">
+                            Years Of Experience
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-auto">
+                <div class="media align-items-center mb-30 d-block d-xl-flex text-center text-xl-left">
+                    <div class="media-icon pb-3 pb-xl-0 pr-xl-15">
+                        <span class="text-theme"><i class="flaticon-chef-1 icon-3x"></i></span>
+                    </div>
+                    <div class="media-body">
+                        <h2 class="h1 text-white mb-0">
+                            <span class="counter">150</span>
+                        </h2>
+                        <p class="counter-text text-white text-md mb-0">
+                            Experienced Worker
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-auto">
+                <div class="media align-items-center mb-30 d-block d-xl-flex text-center text-xl-left">
+                    <div class="media-icon pb-3 pb-xl-0 pr-xl-25">
+                        <span class="text-theme"><i class="flaticon-happy icon-3x"></i></span>
+                    </div>
+                    <div class="media-body">
+                        <h2 class="h1 text-white mb-0">
+                            <span class="counter">200</span>+
+                        </h2>
+                        <p class="counter-text text-white text-md mb-0">
+                            Happy Customer
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-auto">
+                <div class="media align-items-center mb-30 d-block d-xl-flex text-center text-xl-left">
+                    <div class="media-icon pb-3 pb-xl-0 pr-xl-25">
+                        <span class="text-theme"><i class="flaticon-fruit icon-3x"></i></span>
+                    </div>
+                    <div class="media-body">
+                        <h2 class="h1 text-white mb-0">
+                            <span class="counter">5</span>k+
+                        </h2>
+                        <p class="counter-text text-white text-md mb-0">Branches</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="vs-food-box-wrapper food-box-layout3 position-relative link-inherit pt-lg-150 pt-60 pb-lg-120 pb-30"
     id="food-menu">
     <div class="shape1 position-absolute d-none d-xl-inline-block">
@@ -222,295 +361,10 @@
         </div>
     </div>
 </section>
-<section
-    class="appointment-form-wrapper appointment-form-layout2 background-image z-index-common bg-fixed pt-lg-150 pt-60 pb-lg-120 pb-30"
-    data-vs-img="assets/img/appointment/appointment-bg-1-1.jpg" data-overlay="title" data-opacity="7" id="contact">
-    <div class="container position-relative">
-        <div class="row justify-content-center">
-            <div class="col-lg-9 col-xl-7">
-                <div class="section-title text-center">
-                    <span class="sec-subtitle text-white h4">Corporate Applications</span>
-                    <h2 class="sec-title1 text-white">Make Reservation</h2>
-                    <p class="sec-text text-md text-white">
-                        Assertively myocardinate robust e-tailers for extensible human
-                        capital. dpropriately benchmark turnkey networks.
-                    </p>
-                    <div class="sec-line">
-                        <img src="assets/img/shape/sec-title-2.png" alt="Section Shape Icon" />
-                    </div>
-                </div>
-            </div>
-        </div>
-        <form action="#" class="appointment-form-style2">
-            <div class="row text-center justify-content-center">
-                <div class="col-lg-4 form-group">
-                    <i class="fal fa-calendar-alt"></i>
-                    <input type="text" id="aptDay" autocomplete="off" class="form-control date-pick"
-                        placeholder="Select Date" />
-                </div>
-                <div class="col-lg-4 form-group">
-                    <i class="far fa-clock"></i>
-                    <input type="text" id="aptDay" autocomplete="off" class="form-control time-pick"
-                        placeholder="Select Time" />
-                </div>
-                <div class="col-lg-4 form-group">
-                    <i class="fal fa-user"></i>
-                    <input type="number" id="aptGuests" autocomplete="off" class="qty-input form-control"
-                        placeholder="Total Guests" />
-                </div>
-                <div class="col-12 form-group">
-                    <i class="far fa-pencil-alt"></i>
-                    <textarea name="message" id="message" cols="30" rows="3" placeholder="Special Message"
-                        class="form-control"></textarea>
-                </div>
-                <div class="col-md-4 col-lg-4 form-group mt-10">
-                    <button type="submit" class="vs-btn style1">
-                        Book Your Seat
-                    </button>
-                </div>
-            </div>
-        </form>
-    </div>
-</section>
-<section class="vs-about-wrapper vs-about-layout3 background-image bg-bottom bg-auto py-lg-150 py-60 z-index-common"
-    data-vs-img="assets/img/about/about-bg-3-1.png" id="about">
-    <div class="container">
-        <div class="about-image-box3">
-            <div class="row">
-                <div class="col-sm-6 about-image1 z-index-common">
-                    <a href="about.html"><img src="assets/img/about/about-img-3-1.jpg" alt="About us Image" /></a>
-                </div>
-                <div class="col-sm-6 about-image2">
-                    <a href="about.html"><img src="assets/img/about/about-img-3-2.jpg" alt="About us Image" /></a>
-                </div>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-md-10 col-lg-6 col-xl-7">
-                <div
-                    class="about-content text-center bg-white px-30 px-sm-40 px-lg-60 px-xl-80 py-40 py-lg-60 pb-xl-120 pt-xl-200">
-                    <span class="sec-subtitle h3 text-theme mt-0">Our Brave</span>
-                    <h2 class="sec-title1 mb-20">About Us</h2>
-                    <p class="about-text mb-lg-55">
-                        Compellingly engage backend technology and 2.0 strategic theme
-                        areas. Distinctively simplify world-class portals through global
-                        human capital.
-                    </p>
-                    <a href="https://www.youtube.com/embed/tgbNymZ7vqY" class="play-btn popup-video"><i
-                            class="fas fa-play"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="vs-counter-area counter-layout1 background-image bg-fixed pt-lg-140 pt-50 pb-lg-120 pb-30"
-    data-vs-img="assets/img/counter/counter-bg-1-1.jpg" data-overlay="title" data-opacity="7">
-    <div class="container">
-        <div class="row justify-content-between">
-            <div class="col-sm-6 col-md-auto">
-                <div class="media align-items-center mb-30 d-block d-xl-flex text-center text-xl-left">
-                    <div class="media-icon pb-3 pb-xl-0 pr-xl-25">
-                        <span class="text-theme"><i class="flaticon-mission-accomplished icon-3x"></i></span>
-                    </div>
-                    <div class="media-body">
-                        <h2 class="h1 text-white mb-0">
-                            <span class="counter">25</span>
-                        </h2>
-                        <p class="counter-text text-white text-md mb-0">
-                            Years Of Experience
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-auto">
-                <div class="media align-items-center mb-30 d-block d-xl-flex text-center text-xl-left">
-                    <div class="media-icon pb-3 pb-xl-0 pr-xl-15">
-                        <span class="text-theme"><i class="flaticon-chef-1 icon-3x"></i></span>
-                    </div>
-                    <div class="media-body">
-                        <h2 class="h1 text-white mb-0">
-                            <span class="counter">150</span>
-                        </h2>
-                        <p class="counter-text text-white text-md mb-0">
-                            Experienced Worker
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-auto">
-                <div class="media align-items-center mb-30 d-block d-xl-flex text-center text-xl-left">
-                    <div class="media-icon pb-3 pb-xl-0 pr-xl-25">
-                        <span class="text-theme"><i class="flaticon-happy icon-3x"></i></span>
-                    </div>
-                    <div class="media-body">
-                        <h2 class="h1 text-white mb-0">
-                            <span class="counter">200</span>+
-                        </h2>
-                        <p class="counter-text text-white text-md mb-0">
-                            Happy Customer
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-auto">
-                <div class="media align-items-center mb-30 d-block d-xl-flex text-center text-xl-left">
-                    <div class="media-icon pb-3 pb-xl-0 pr-xl-25">
-                        <span class="text-theme"><i class="flaticon-fruit icon-3x"></i></span>
-                    </div>
-                    <div class="media-body">
-                        <h2 class="h1 text-white mb-0">
-                            <span class="counter">5</span>k+
-                        </h2>
-                        <p class="counter-text text-white text-md mb-0">Branches</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="vs-team-wrapper vs-team-layout2 link-inherit pt-lg-150 pt-60 pb-lg-120 pb-30" id="chef">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-md-11 col-lg-9 col-xl-7">
-                <div class="section-title text-center">
-                    <span class="sec-subtitle text-theme h3">Meet Our</span>
-                    <h2 class="sec-title1">Experts Chefs</h2>
-                    <div class="sec-line">
-                        <img src="assets/img/shape/sec-title-1.png" alt="Section Shape Icon" />
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row vs-carousel arrow-has-margin" data-arrows="true" data-slidetoshow="3" data-mdslidetoshow="2"
-            data-smslidetoshow="2" data-xsslidetoshow="1" data-focusonselect="false">
-            <div class="col-xl-4">
-                <div class="vs-team">
-                    <div class="team-img image-scale-hover">
-                        <a href="chef-details.html"><img src="assets/img/team/team-img-2-1.jpg" alt="Team Image"
-                                class="w-100" /></a>
-                        <div class="social-links links-has-border">
-                            <a href="#" class="vs-toggler"><i class="far fa-plus"></i></a>
-                            <ul class="toggle-menu">
-                                <li>
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-content text-center">
-                        <h3 class="team-member-name mb-10">
-                            <a href="chef-details.html">Jerzzy Lamot</a>
-                        </h3>
-                        <span class="team-member-degi">Chef</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4">
-                <div class="vs-team">
-                    <div class="team-img image-scale-hover">
-                        <a href="chef-details.html"><img src="assets/img/team/team-img-2-2.jpg" alt="Team Image"
-                                class="w-100" /></a>
-                        <div class="social-links links-has-border">
-                            <a href="#" class="vs-toggler"><i class="far fa-plus"></i></a>
-                            <ul class="toggle-menu">
-                                <li>
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-content text-center">
-                        <h3 class="team-member-name mb-10">
-                            <a href="chef-details.html">Vivi Marian</a>
-                        </h3>
-                        <span class="team-member-degi">Chef</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4">
-                <div class="vs-team">
-                    <div class="team-img image-scale-hover">
-                        <a href="chef-details.html"><img src="assets/img/team/team-img-2-3.jpg" alt="Team Image"
-                                class="w-100" /></a>
-                        <div class="social-links links-has-border">
-                            <a href="#" class="vs-toggler"><i class="far fa-plus"></i></a>
-                            <ul class="toggle-menu">
-                                <li>
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-content text-center">
-                        <h3 class="team-member-name mb-10">
-                            <a href="chef-details.html">Aaron Bond</a>
-                        </h3>
-                        <span class="team-member-degi">Chef</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4">
-                <div class="vs-team">
-                    <div class="team-img image-scale-hover">
-                        <a href="chef-details.html"><img src="assets/img/team/team-img-2-4.jpg" alt="Team Image"
-                                class="w-100" /></a>
-                        <div class="social-links links-has-border">
-                            <a href="#" class="vs-toggler"><i class="far fa-plus"></i></a>
-                            <ul class="toggle-menu">
-                                <li>
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="team-content text-center">
-                        <h3 class="team-member-name mb-10">
-                            <a href="chef-details.html">Peter Parker</a>
-                        </h3>
-                        <span class="team-member-degi">Chef</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="vs-gallery-wrapper gallery-box-layout1 bg-smoke link-inherit pt-lg-150 pt-60" id="gallery">
+
+
+<section class="vs-gallery-wrapper gallery-box-layout1 bg-smoke link-inherit pt-lg-150 pt-60"
+    style="margin-bottom: 10rem;" id="gallery">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-11 col-lg-9 col-xl-7">
@@ -605,96 +459,109 @@
         </div>
     </div>
 </section>
-<section class="vs-blog-wrapper vs-blog-layout3 link-inherit pt-lg-150 pt-60 pb-lg-120 pb-30" id="blog">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-md-11 col-lg-9 col-xl-7">
-                <div class="section-title text-center">
-                    <span class="sec-subtitle text-theme h3">Corporate Applications</span>
-                    <h2 class="sec-title1">Latest News</h2>
-                    <div class="sec-line">
-                        <img src="assets/img/shape/sec-title-1.png" alt="Section Shape Icon" />
-                    </div>
-                </div>
+
+
+
+<section class="vs-reservation-wrapper vs-reservation-layout4 background-image bg-fixed py-lg-130 py-60"
+    data-vs-img="assets/img/appointment/appointment-bg-2-1.jpg" data-overlay="black" data-opacity="6" id="contact">
+    <div class="container z-index-common">
+        <div class="section-title text-center">
+            <h2 class="sec-title1 text-font3 text-white">
+                Make a <span class="text-theme">Reservation</span>
+            </h2>
+            <div class="sec-line">
+                <img src="assets/img/shape/sec-title-2.png" alt="Section Shape Icon" />
             </div>
         </div>
-        <div class="row vs-carousel arrow-has-margin" data-arrows="true" data-centermode="true" data-xlcentermode="true"
-            data-mlcentermode="true" data-lgcentermode="true" data-slidetoshow="3" data-mdslidetoshow="2"
-            data-smslidetoshow="2" data-xsslidetoshow="1">
-            <div class="col-xl-4">
-                <div class="vs-blog">
-                    <div class="blog-img image-scale-hover">
-                        <a href="blog-details.html"><img src="assets/img/blog/blog-img-3-1.jpg" alt="Blog Image"
-                                class="w-100" /></a>
+        <div class="row">
+            <div class="col-lg-6 mb-30 mb-lg-0">
+                <div class="h-100 w-100 bg-white px-10 py-10 px-sm-30 py-sm-30 px-xl-80 py-xl-80">
+                    <div class="icon-contact-box mb-10 mb-lg-30 d-flex">
+                        <span class="icon pt-1"><i class="fal fa-map-marker-alt fa-3x"></i></span>
+                        <div class="media-body ml-15">
+                            <h3 class="box-title mb-1">Our Location</h3>
+                            <p class="mb-0">
+                                3654 Nasr Street, Mehgine Uptown, Toronto, Canada New York
+                            </p>
+                        </div>
                     </div>
-                    <div class="blog-content">
-                        <div class="blog-category">
-                            <a href="blog.html">Business</a>
+                    <div class="icon-contact-box mb-10 mb-lg-30 d-flex">
+                        <span class="icon pt-1"><i class="fal fa-phone fa-3x"></i></span>
+                        <div class="media-body ml-15">
+                            <h3 class="box-title mb-1">Book a table</h3>
+                            <p class="mb-0">
+                                Phone : +1231462-22394256<br />Fax : +12912622438, 4258
+                            </p>
                         </div>
-                        <h3 class="blog-title h4">
-                            <a href="blog-details.html">Rapidiously redefine error-free total</a>
-                        </h3>
-                        <div class="blog-meta">
-                            <span><i class="fal fa-calendar-alt"></i>10 July, 2022</span>
+                    </div>
+                    <div class="icon-contact-box mb-10 mb-lg-30 d-flex">
+                        <span class="icon"><i class="fal fa-envelope fa-3x"></i></span>
+                        <div class="media-body ml-15">
+                            <h3 class="box-title mb-1">E-mail Us</h3>
+                            <p class="mb-0">
+                                Support: info@example.com<br />Sales: info@example.com
+                            </p>
                         </div>
+                    </div>
+                    <div class="social-links links-has-border">
+                        <h3 class="box-title mb-2">Follow Us</h3>
+                        <ul>
+                            <li>
+                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fab fa-instagram"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fab fa-youtube"></i></a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4">
-                <div class="vs-blog">
-                    <div class="blog-img image-scale-hover">
-                        <a href="blog-details.html"><img src="assets/img/blog/blog-img-3-2.jpg" alt="Blog Image"
-                                class="w-100" /></a>
+            <div class="col-lg-6">
+                <form action="#" class="appointment-form1 px-10 py-10 px-sm-30 py-sm-30 px-xl-80 py-xl-80 bg-white">
+                    <div class="form-title text-center mb-30">
+                        <h2 class="text-font3">Book a table Easily in online</h2>
                     </div>
-                    <div class="blog-content">
-                        <div class="blog-category">
-                            <a href="blog.html">Breakfast</a>
-                        </div>
-                        <h3 class="blog-title h4">
-                            <a href="blog-details.html">Lorem ipsum dolor sitamet redefine.</a>
-                        </h3>
-                        <div class="blog-meta">
-                            <span><i class="fal fa-calendar-alt"></i>26 August, 2022</span>
-                        </div>
+                    <div class="form-group mb-20">
+                        <input type="text" class="form-control dateTime-pick" placeholder="Select Date & Time" />
+                        <i class="fal fa-calendar-alt"></i>
                     </div>
-                </div>
-            </div>
-            <div class="col-xl-4">
-                <div class="vs-blog">
-                    <div class="blog-img image-scale-hover">
-                        <a href="blog-details.html"><img src="assets/img/blog/blog-img-3-3.jpg" alt="Blog Image"
-                                class="w-100" /></a>
+                    <div class="form-group mb-20">
+                        <input type="number" class="form-control" placeholder="Person" />
+                        <i class="fal fa-user"></i>
                     </div>
-                    <div class="blog-content">
-                        <div class="blog-category"><a href="blog.html">Chicken</a></div>
-                        <h3 class="blog-title h4">
-                            <a href="blog-details.html">Consectetur, adipisicing elitEa eturdipi.</a>
-                        </h3>
-                        <div class="blog-meta">
-                            <span><i class="fal fa-calendar-alt"></i>16 October, 2022</span>
-                        </div>
+                    <div class="form-group mb-20">
+                        <input type="text" class="form-control" placeholder="Your Name" />
+                        <i class="fal fa-user"></i>
                     </div>
-                </div>
-            </div>
-            <div class="col-xl-4">
-                <div class="vs-blog">
-                    <div class="blog-img image-scale-hover">
-                        <a href="blog-details.html"><img src="assets/img/blog/blog-img-3-4.jpg" alt="Blog Image"
-                                class="w-100" /></a>
+                    <div class="form-group mb-20">
+                        <input type="number" class="form-control" placeholder="Contact Number" />
+                        <i class="fal fa-phone"></i>
                     </div>
-                    <div class="blog-content">
-                        <div class="blog-category">
-                            <a href="blog.html">Chocolate</a>
-                        </div>
-                        <h3 class="blog-title h4">
-                            <a href="blog-details.html">Lordol oremtadi dlkpi sicing veniam!</a>
-                        </h3>
-                        <div class="blog-meta">
-                            <span><i class="fal fa-calendar-alt"></i>23 October, 2022</span>
-                        </div>
+                    <div class="form-btn">
+                        <button type="submit" class="vs-btn mask-style1 rounded-0 w-100">
+                            Book Your Table
+                        </button>
                     </div>
-                </div>
+                </form>
             </div>
         </div>
+    </div>
+</section>
+
+<section class="mapa">
+    <div class="container-fluid">
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2671.4492736882066!2d-109.71141737752568!3d23.080706070535882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af5befd7ced5e3%3A0xe656915c3895a0ed!2sPato%20Buzo%20cevicheria!5e0!3m2!1ses-419!2smx!4v1703618883118!5m2!1ses-419!2smx"
+            width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </section>
