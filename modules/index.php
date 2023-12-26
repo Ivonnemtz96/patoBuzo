@@ -176,29 +176,30 @@
                         <img src="assets/img/about/about-img-8-2.jpg" alt="About Us Image" />
                     </div>
                     <div class="border-exp-box">
-                        <span class="counter text-theme">27</span>
-                        <p class="exp-text text-xs mb-0">Year Experience</p>
+                        <span class="counter text-theme">7</span>
+                        <p class="exp-text text-xs mb-0">Años de experiencia</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-6 mb-30 align-self-center">
-                <span class="h3 text-font3 text-theme d-block mb-3">About Us</span>
+                <span class="h3 text-font3 text-theme d-block mb-3">Sobre nosotros</span>
                 <h2 class="sec-title1 mb-lg-35">
-                    We will make your night delicious.
+                    Pato Buzo
                 </h2>
                 <p class="text-20 mb-lg-4 pb-1 lh-32">
-                    Compellingly engage backend technology and 2.0 strategic theme
-                    areas. Distinctively simplify world-class portals.
+                    Somos un equipo apasionado y creativo dedicado a brindarte la experiencia culinaria definitiva con
+                    los mejores mariscos. En Pato Buzo, nos esforzamos por fusionar la frescura incomparable del mar con
+                    la originalidad en cada plato. Trabajamos incansablemente para ofrecerte no solo deliciosos
+                    mariscos, sino también una experiencia única llena de calidad y precios justos.
                 </p>
                 <p class="mb-lg-45">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                    enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                    nisi ut aliquip.
+                    Nuestro compromiso es crear momentos inolvidables a través de una cocina excepcional, donde la
+                    pasión y la dedicación se reflejen en cada bocado. ¡Únete a nosotros en esta aventura culinaria y
+                    descubre la auténtica delicia del mar en cada plato!
                 </p>
                 <div class="vs-btn-group">
-                    <a href="menu.html" class="vs-btn style1">Our Menus</a>
-                    <a href="menu.html" class="vs-btn style-outline">Learn More</a>
+                    <a href="#menu" class="vs-btn style1">Ver menú</a>
+                    <a href="#gallery" class="vs-btn style-outline">Ver galería</a>
                 </div>
             </div>
         </div>
@@ -216,25 +217,10 @@
                     </div>
                     <div class="media-body">
                         <h2 class="h1 text-white mb-0">
-                            <span class="counter">25</span>
+                            <span class="counter">7</span>
                         </h2>
                         <p class="counter-text text-white text-md mb-0">
-                            Years Of Experience
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 col-md-auto">
-                <div class="media align-items-center mb-30 d-block d-xl-flex text-center text-xl-left">
-                    <div class="media-icon pb-3 pb-xl-0 pr-xl-15">
-                        <span class="text-theme"><i class="flaticon-chef-1 icon-3x"></i></span>
-                    </div>
-                    <div class="media-body">
-                        <h2 class="h1 text-white mb-0">
-                            <span class="counter">150</span>
-                        </h2>
-                        <p class="counter-text text-white text-md mb-0">
-                            Experienced Worker
+                            Años de experiencia
                         </p>
                     </div>
                 </div>
@@ -249,7 +235,7 @@
                             <span class="counter">200</span>+
                         </h2>
                         <p class="counter-text text-white text-md mb-0">
-                            Happy Customer
+                            Clientes satisfechos
                         </p>
                     </div>
                 </div>
@@ -261,9 +247,9 @@
                     </div>
                     <div class="media-body">
                         <h2 class="h1 text-white mb-0">
-                            <span class="counter">5</span>k+
+                            <span class="counter">15</span>+
                         </h2>
-                        <p class="counter-text text-white text-md mb-0">Branches</p>
+                        <p class="counter-text text-white text-md mb-0">Platillos</p>
                     </div>
                 </div>
             </div>
@@ -273,24 +259,21 @@
 
 <section class="vs-food-box-wrapper food-box-layout3 position-relative link-inherit pt-lg-150 pt-60 pb-lg-120 pb-30"
     id="food-menu">
-    <div class="shape1 position-absolute d-none d-xl-inline-block">
-        <img src="assets/img/food-menu/food-menu-bg-img-3-1.jpg" alt="" />
-    </div>
+
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-11 col-lg-9 col-xl-7">
                 <div class="section-title text-center">
-                    <span class="sec-subtitle text-theme h3">Our Menu</span>
-                    <h2 class="sec-title1 mb-1">Food Menu</h2>
+                    <span class="sec-subtitle text-theme h3">Nuestro menú</span>
+                    <h2 class="sec-title1 mb-1">¿Ya los probaste todos?</h2>
                     <div class="sec-line">
                         <img src="assets/img/shape/sec-title-1.png" alt="Section Shape Icon" />
                     </div>
                 </div>
             </div>
         </div>
-        <div class="row vs-carousel arrow-has-margin" data-arrows="true" data-slidetoshow="3" data-mdslidetoshow="2"
-            data-smslidetoshow="1" data-xsslidetoshow="1">
-            <div class="col-xl-4">
+        <div class="row justify-content-center">
+            <div class="col-xl-5 align-items-center">
                 <div class="vs-food-box">
                     <div class="food-image image-scale-hover">
                         <a href="menu-details.html"><img src="assets/img/food-menu/food-menu-img-3-1.jpg"
@@ -307,53 +290,19 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4">
+            <div class="col-xl-5 align-items-center">
                 <div class="vs-food-box">
                     <div class="food-image image-scale-hover">
-                        <a href="menu-details.html"><img src="assets/img/food-menu/food-menu-img-3-2.jpg"
+                        <a href="menu-details.html"><img src="assets/img/food-menu/food-menu-img-3-1.jpg"
                                 alt="Food Image" class="w-100" /></a>
                     </div>
                     <div class="food-content">
-                        <span class="food-price">$36.00</span>
+                        <span class="food-price">$99.99</span>
                         <p class="food-text mb-0 text-xs mb-2">
-                            Red Rice, Tehari, Drinks
+                            Dimer chop, Lau Chingri, Ruti
                         </p>
                         <h3 class="food-title h4 mb-0">
-                            <a href="menu-details.html">Chipotle Chicken Bowl</a>
-                        </h3>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4">
-                <div class="vs-food-box">
-                    <div class="food-image image-scale-hover">
-                        <a href="menu-details.html"><img src="assets/img/food-menu/food-menu-img-3-3.jpg"
-                                alt="Food Image" class="w-100" /></a>
-                    </div>
-                    <div class="food-content">
-                        <span class="food-price">$100</span>
-                        <p class="food-text mb-0 text-xs mb-2">
-                            Morog Polao, Biryani, Soft Drink
-                        </p>
-                        <h3 class="food-title h4 mb-0">
-                            <a href="menu-details.html">Grilled Dry Chicken</a>
-                        </h3>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4">
-                <div class="vs-food-box">
-                    <div class="food-image image-scale-hover">
-                        <a href="menu-details.html"><img src="assets/img/food-menu/food-menu-img-3-4.jpg"
-                                alt="Food Image" class="w-100" /></a>
-                    </div>
-                    <div class="food-content">
-                        <span class="food-price">$19.99</span>
-                        <p class="food-text mb-0 text-xs mb-2">
-                            Sauce, Hot Burger, Soft Drink
-                        </p>
-                        <h3 class="food-title h4 mb-0">
-                            <a href="menu-details.html">Antioxidant Fruits Mix</a>
+                            <a href="menu-details.html">New Stuffed Strawberry</a>
                         </h3>
                     </div>
                 </div>
@@ -369,8 +318,8 @@
         <div class="row justify-content-center">
             <div class="col-md-11 col-lg-9 col-xl-7">
                 <div class="section-title text-center">
-                    <span class="sec-subtitle text-theme h3">Corporate Applications</span>
-                    <h2 class="sec-title1">Our Food Gallery</h2>
+                    <span class="sec-subtitle text-theme h3">Lo mejor del mar hasta tu mesa</span>
+                    <h2 class="sec-title1">Galería</h2>
                     <div class="sec-line">
                         <img src="assets/img/shape/sec-title-1.png" alt="Section Shape Icon" />
                     </div>
@@ -387,10 +336,6 @@
                         <img src="assets/img/gallery/gallery-img-1-6.jpg" class="w-100" alt="Gallery Image" />
                     </div>
                     <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <h3 class="gallery-title h4 mb-0 text-white">
-                            <a href="menu-details.html">Philadelphia salmon</a>
-                        </h3>
-                        <span class="gallery-item-author text-white">by Red Parker</span>
                         <a href="assets/img/gallery/gallery-img-1-6.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
@@ -402,10 +347,6 @@
                         <img src="assets/img/gallery/gallery-img-1-7.jpg" class="w-100" alt="Gallery Image" />
                     </div>
                     <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <h3 class="gallery-title h4 mb-0 text-white">
-                            <a href="menu-details.html">Grilled Tomato Salad</a>
-                        </h3>
-                        <span class="gallery-item-author text-white">by Vivi Marian</span>
                         <a href="assets/img/gallery/gallery-img-1-7.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
@@ -417,10 +358,6 @@
                         <img src="assets/img/gallery/gallery-img-1-8.jpg" class="w-100" alt="Gallery Image" />
                     </div>
                     <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <h3 class="gallery-title h4 mb-0 text-white">
-                            <a href="menu-details.html">Fried Chicken Rice</a>
-                        </h3>
-                        <span class="gallery-item-author text-white">by Jerzzy Lamot</span>
                         <a href="assets/img/gallery/gallery-img-1-8.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
@@ -432,10 +369,6 @@
                         <img src="assets/img/gallery/gallery-img-1-9.jpg" class="w-100" alt="Gallery Image" />
                     </div>
                     <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <h3 class="gallery-title h4 mb-0 text-white">
-                            <a href="menu-details.html">Delicious Hamburgers</a>
-                        </h3>
-                        <span class="gallery-item-author text-white">by Suzana Roise</span>
                         <a href="assets/img/gallery/gallery-img-1-9.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
@@ -447,10 +380,6 @@
                         <img src="assets/img/gallery/gallery-img-1-10.jpg" class="w-100" alt="Gallery Image" />
                     </div>
                     <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <h3 class="gallery-title h4 mb-0 text-white">
-                            <a href="menu-details.html">Tasty Pizza Wooden</a>
-                        </h3>
-                        <span class="gallery-item-author text-white">by Peter Perker</span>
                         <a href="assets/img/gallery/gallery-img-1-10.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
@@ -467,7 +396,7 @@
     <div class="container z-index-common">
         <div class="section-title text-center">
             <h2 class="sec-title1 text-font3 text-white">
-                Make a <span class="text-theme">Reservation</span>
+                Haz tu <span class="text-theme">reservación</span>
             </h2>
             <div class="sec-line">
                 <img src="assets/img/shape/sec-title-2.png" alt="Section Shape Icon" />
@@ -479,47 +408,43 @@
                     <div class="icon-contact-box mb-10 mb-lg-30 d-flex">
                         <span class="icon pt-1"><i class="fal fa-map-marker-alt fa-3x"></i></span>
                         <div class="media-body ml-15">
-                            <h3 class="box-title mb-1">Our Location</h3>
+                            <h3 class="box-title mb-1">Dirección</h3>
                             <p class="mb-0">
-                                3654 Nasr Street, Mehgine Uptown, Toronto, Canada New York
+                                Blvd. Forjadores manzana 204-lote 5, Guaymitas, San José del Cabo
                             </p>
                         </div>
                     </div>
                     <div class="icon-contact-box mb-10 mb-lg-30 d-flex">
                         <span class="icon pt-1"><i class="fal fa-phone fa-3x"></i></span>
                         <div class="media-body ml-15">
-                            <h3 class="box-title mb-1">Book a table</h3>
+                            <h3 class="box-title mb-1">Reserva tu mesa</h3>
                             <p class="mb-0">
-                                Phone : +1231462-22394256<br />Fax : +12912622438, 4258
+                                <a href="tel:+526246882481" target="_blank">
+                                    Teléfono : 624 688 2481
+                                </a>
                             </p>
                         </div>
                     </div>
                     <div class="icon-contact-box mb-10 mb-lg-30 d-flex">
                         <span class="icon"><i class="fal fa-envelope fa-3x"></i></span>
                         <div class="media-body ml-15">
-                            <h3 class="box-title mb-1">E-mail Us</h3>
+                            <h3 class="box-title mb-1">Escríbenos</h3>
                             <p class="mb-0">
-                                Support: info@example.com<br />Sales: info@example.com
+                                <a href="mailto:patobuzo@outlook.com" target="_blank">
+                                    Correo: patobuzo@outlook.com
+                                </a>
                             </p>
                         </div>
                     </div>
                     <div class="social-links links-has-border">
-                        <h3 class="box-title mb-2">Follow Us</h3>
+                        <h3 class="box-title mb-2">Síguenos en redes sociales</h3>
                         <ul>
                             <li>
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                             </li>
-                            <li>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                            </li>
+                           
                             <li>
                                 <a href="#"><i class="fab fa-instagram"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -528,27 +453,27 @@
             <div class="col-lg-6">
                 <form action="#" class="appointment-form1 px-10 py-10 px-sm-30 py-sm-30 px-xl-80 py-xl-80 bg-white">
                     <div class="form-title text-center mb-30">
-                        <h2 class="text-font3">Book a table Easily in online</h2>
+                        <h2 class="text-font3">¡Reserva ahora!</h2>
                     </div>
                     <div class="form-group mb-20">
-                        <input type="text" class="form-control dateTime-pick" placeholder="Select Date & Time" />
+                        <input type="text" class="form-control dateTime-pick" placeholder="Selecciona día y hora" />
                         <i class="fal fa-calendar-alt"></i>
                     </div>
                     <div class="form-group mb-20">
-                        <input type="number" class="form-control" placeholder="Person" />
+                        <input type="number" class="form-control" placeholder="Personas" />
                         <i class="fal fa-user"></i>
                     </div>
                     <div class="form-group mb-20">
-                        <input type="text" class="form-control" placeholder="Your Name" />
+                        <input type="text" class="form-control" placeholder="Nombre" />
                         <i class="fal fa-user"></i>
                     </div>
                     <div class="form-group mb-20">
-                        <input type="number" class="form-control" placeholder="Contact Number" />
+                        <input type="number" class="form-control" placeholder="Teléfono" />
                         <i class="fal fa-phone"></i>
                     </div>
                     <div class="form-btn">
                         <button type="submit" class="vs-btn mask-style1 rounded-0 w-100">
-                            Book Your Table
+                            Reservar
                         </button>
                     </div>
                 </form>
