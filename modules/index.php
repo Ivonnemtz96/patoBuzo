@@ -2,7 +2,7 @@
     <div class="vs-hero-carousel navprevnext-white" data-height="550px" data-navprevnext="true">
         <div class="vs-hero-slide ls-slide" data-ls="duration: 7000;
                     transition2d: 5;">
-            <img src="assets/img/hero/hero-img-1-2.jpg" alt="Slide Image" class="ls-bg" data-ls="bgsize: cover;"
+            <img src="assets/img/hero/01.jpg" alt="Slide Image" class="ls-bg" data-ls="bgsize: cover;"
                 style="margin-top: -1rem;" />
             <span class="hero-subtitle text-white text-font3 h1 ls-l" style="
               left: 50%;
@@ -42,11 +42,11 @@
                         scaleyin:0.9; scalexout:1.1; scaleyout: 1.1;
                         fadein:true; fadeout: true; transformoriginin:50% 143.8%
                         0;">
-                <a href="menu.php" class="vs-btn mask-style1">Ver menú</a>
+                <a href="#food-menu" class="vs-btn mask-style1">Ver menú</a>
             </div>
         </div>
         <div class="vs-hero-slide ls-slide" data-ls="duration: 7000; transition2d: 5;">
-            <img src="assets/img/hero/hero-img-1-2.jpg" alt="Slide Image" class="ls-bg" data-ls="bgsize: cover;" />
+            <img src="assets/img/hero/02.jpg" alt="Slide Image" class="ls-bg" data-ls="bgsize: cover;" />
             <span class="hero-subtitle text-white text-font3 h1 ls-l" style="
               left: 50%;
               top: 140px;
@@ -120,7 +120,7 @@
             </div>
         </div>
         <div class="vs-hero-slide ls-slide" data-ls="duration: 7000; transition2d: 5;">
-            <img src="assets/img/hero/hero-img-1-2.jpg" alt="Slide Image" class="ls-bg" data-ls="bgsize: cover;" />
+            <img src="assets/img/hero/03.jpg" alt="Slide Image" class="ls-bg" data-ls="bgsize: cover;" />
             <span class="hero-subtitle text-white text-font3 h1 ls-l" style="
               left: 50%;
               top: 140px;
@@ -171,9 +171,9 @@
         <div class="row">
             <div class="col-md-10 col-lg-6 mb-30">
                 <div class="about-image image-box4 position-relative">
-                    <img src="assets/img/about/about-img-8-1.jpg" alt="About Us Image" />
+                    <img src="assets/img/about/01.jpg" alt="About Us Image" />
                     <div class="small-img">
-                        <img src="assets/img/about/about-img-8-2.jpg" alt="About Us Image" />
+                        <img src="assets/img/about/02.jpg" alt="About Us Image" />
                     </div>
                     <div class="border-exp-box">
                         <span class="counter text-theme">7</span>
@@ -198,7 +198,7 @@
                     descubre la auténtica delicia del mar en cada plato!
                 </p>
                 <div class="vs-btn-group">
-                    <a href="#menu" class="vs-btn style1">Ver menú</a>
+                    <a href="#food-menu" class="vs-btn style1">Ver menú</a>
                     <a href="#gallery" class="vs-btn style-outline">Ver galería</a>
                 </div>
             </div>
@@ -207,7 +207,7 @@
 </section>
 
 <section class="vs-counter-area counter-layout1 background-image bg-fixed pt-lg-140 pt-50 pb-lg-120 pb-30"
-    data-vs-img="assets/img/counter/counter-bg-1-1.jpg" data-overlay="title" data-opacity="7">
+    data-vs-img="assets/img/bg/02.jpg" data-overlay="title" data-opacity="5">
     <div class="container">
         <div class="row justify-content-between">
             <div class="col-sm-6 col-md-auto">
@@ -259,7 +259,6 @@
 
 <section class="vs-food-box-wrapper food-box-layout3 position-relative link-inherit pt-lg-150 pt-60 pb-lg-120 pb-30"
     id="food-menu">
-
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-11 col-lg-9 col-xl-7">
@@ -329,14 +328,14 @@
     </div>
     <div class="container-fluid">
         <div class="row vs-carousel" data-slidetoshow="4" data-mlslidetoshow="3" data-lgslidetoshow="3"
-            data-mdslidetoshow="2" data-smslidetoshow="1" data-xsslidetoshow="1">
+            data-mdslidetoshow="2" data-smslidetoshow="1" data-xsslidetoshow="1" >
             <div class="col-lg-3">
                 <div class="vs-gallery image-scale-hover mb-0">
                     <div class="gallery-img">
-                        <img src="assets/img/gallery/gallery-img-1-6.jpg" class="w-100" alt="Gallery Image" />
+                        <img src="assets/img/gallery/01.jpg" class="w-100" alt="Gallery Image" />
                     </div>
                     <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <a href="assets/img/gallery/gallery-img-1-6.jpg" class="icon-btn popup-image text-body"><i
+                        <a href="assets/img/gallery/01.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
                 </div>
@@ -344,10 +343,10 @@
             <div class="col-lg-3">
                 <div class="vs-gallery image-scale-hover mb-0">
                     <div class="gallery-img">
-                        <img src="assets/img/gallery/gallery-img-1-7.jpg" class="w-100" alt="Gallery Image" />
+                        <img src="assets/img/gallery/02.jpg" class="w-100" alt="Gallery Image" />
                     </div>
                     <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <a href="assets/img/gallery/gallery-img-1-7.jpg" class="icon-btn popup-image text-body"><i
+                        <a href="assets/img/gallery/02.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
                 </div>
@@ -355,10 +354,10 @@
             <div class="col-lg-3">
                 <div class="vs-gallery image-scale-hover mb-0">
                     <div class="gallery-img">
-                        <img src="assets/img/gallery/gallery-img-1-8.jpg" class="w-100" alt="Gallery Image" />
+                        <img src="assets/img/gallery/04.jpg" class="w-100" alt="Gallery Image" />
                     </div>
                     <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <a href="assets/img/gallery/gallery-img-1-8.jpg" class="icon-btn popup-image text-body"><i
+                        <a href="assets/img/gallery/04.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
                 </div>
@@ -366,10 +365,10 @@
             <div class="col-lg-3">
                 <div class="vs-gallery image-scale-hover mb-0">
                     <div class="gallery-img">
-                        <img src="assets/img/gallery/gallery-img-1-9.jpg" class="w-100" alt="Gallery Image" />
+                        <img src="assets/img/gallery/03.jpg" class="w-100" alt="Gallery Image" />
                     </div>
                     <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <a href="assets/img/gallery/gallery-img-1-9.jpg" class="icon-btn popup-image text-body"><i
+                        <a href="assets/img/gallery/03.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
                 </div>
@@ -377,10 +376,34 @@
             <div class="col-lg-3">
                 <div class="vs-gallery image-scale-hover mb-0">
                     <div class="gallery-img">
-                        <img src="assets/img/gallery/gallery-img-1-10.jpg" class="w-100" alt="Gallery Image" />
+                        <img src="assets/img/gallery/05.jpg" class="w-100" alt="Gallery Image" />
                     </div>
                     <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
-                        <a href="assets/img/gallery/gallery-img-1-10.jpg" class="icon-btn popup-image text-body"><i
+                        <a href="assets/img/gallery/05.jpg" class="icon-btn popup-image text-body"><i
+                                class="fal fa-eye"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3">
+                <div class="vs-gallery image-scale-hover mb-0">
+                    <div class="gallery-img">
+                        <img src="assets/img/gallery/06.jpg" class="w-100" alt="Gallery Image" />
+                    </div>
+                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
+                        <a href="assets/img/gallery/06.jpg" class="icon-btn popup-image text-body"><i
+                                class="fal fa-eye"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3">
+                <div class="vs-gallery image-scale-hover mb-0">
+                    <div class="gallery-img">
+                        <img src="assets/img/gallery/07.jpg" class="w-100" alt="Gallery Image" />
+                    </div>
+                    <div class="gallery-content px-40 py-40" data-overlay="black" data-opacity="7">
+                        <a href="assets/img/gallery/07.jpg" class="icon-btn popup-image text-body"><i
                                 class="fal fa-eye"></i></a>
                     </div>
                 </div>
@@ -392,7 +415,7 @@
 
 
 <section class="vs-reservation-wrapper vs-reservation-layout4 background-image bg-fixed py-lg-130 py-60"
-    data-vs-img="assets/img/appointment/appointment-bg-2-1.jpg" data-overlay="black" data-opacity="6" id="contact">
+    data-vs-img="assets/img/bg/03.jpg" data-overlay="black" data-opacity="6" id="contact">
     <div class="container z-index-common">
         <div class="section-title text-center">
             <h2 class="sec-title1 text-font3 text-white">
@@ -483,7 +506,7 @@
 </section>
 
 <section class="mapa">
-    <div class="container-fluid">
+    <div class="mapa">
         <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2671.4492736882066!2d-109.71141737752568!3d23.080706070535882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af5befd7ced5e3%3A0xe656915c3895a0ed!2sPato%20Buzo%20cevicheria!5e0!3m2!1ses-419!2smx!4v1703618883118!5m2!1ses-419!2smx"
             width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"

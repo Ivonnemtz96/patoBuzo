@@ -3,7 +3,7 @@
         <div class="row align-items-center">
             <div class="col-5 col-md-3">
                 <div class="logo">
-                    <a href="index.php"><img src="assets/img/logo.svg" alt="logo" /></a>
+                    <a href="index.php"><img src="assets/img/logo.png" alt="logo" style="width: 5rem;"/></a>
                 </div>
             </div>
             <div class="col-7 col-md-9 text-right">
@@ -29,7 +29,7 @@
             <i class="fal fa-times"></i>
         </button>
         <div class="mobile-logo">
-            <a href="index.html"><img src="assets/img/logo.svg" alt="logo" /></a>
+            <a href="index.php"><img style="width: 5rem;" src="assets/img/logo.png" alt="logo" /></a>
         </div>
         <div class="vs-mobile-menu onepage-nav link-inherit"></div>
     </div>
@@ -39,7 +39,7 @@
         <div class="row align-items-center">
             <div class="col-6 col-md-3 col-lg-2 col-xl-2">
                 <div class="header-logo">
-                    <a href="index.html"><img src="assets/img/logo-white.svg" alt="Logo" /></a>
+                    <a href="index.php"><img src="assets/img/logo-bco.png" style="width: 5rem;" alt="Logo" /></a>
                 </div>
             </div>
             <div class="col-6 col-md-9 col-lg-7 col-xl-5">
