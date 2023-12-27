@@ -273,38 +273,19 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-xl-5 align-items-center">
-                <div class="vs-food-box">
-                    <div class="food-image image-scale-hover">
-                        <a href="menu-details.html"><img src="assets/img/food-menu/food-menu-img-3-1.jpg"
+                <div class="vs-food-box vs-gallery">
+                    <div class="food-image image-scale-hover gallery-img">
+                        <a class="popup"><img src="https://dummyimage.com/600x900/d4d4d4/ffffff&text=menú"
                                 alt="Food Image" class="w-100" /></a>
-                    </div>
-                    <div class="food-content">
-                        <span class="food-price">$99.99</span>
-                        <p class="food-text mb-0 text-xs mb-2">
-                            Dimer chop, Lau Chingri, Ruti
-                        </p>
-                        <h3 class="food-title h4 mb-0">
-                            <a href="menu-details.html">New Stuffed Strawberry</a>
-                        </h3>
                     </div>
                 </div>
             </div>
             <div class="col-xl-5 align-items-center">
-                <div class="vs-food-box">
-                    <div class="food-image image-scale-hover">
-                        <a href="menu-details.html"><img src="assets/img/food-menu/food-menu-img-3-1.jpg"
+                <div class="vs-food-box vs-gallery">
+                    <div class="food-image image-scale-hover gallery-img">
+                        <a class="popup"><img src="https://dummyimage.com/600x900/d4d4d4/ffffff&text=menú"
                                 alt="Food Image" class="w-100" /></a>
                     </div>
-                    <div class="food-content">
-                        <span class="food-price">$99.99</span>
-                        <p class="food-text mb-0 text-xs mb-2">
-                            Dimer chop, Lau Chingri, Ruti
-                        </p>
-                        <h3 class="food-title h4 mb-0">
-                            <a href="menu-details.html">New Stuffed Strawberry</a>
-                        </h3>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
