@@ -275,7 +275,7 @@
             <div class="col-xl-5 align-items-center">
                 <div class="vs-food-box vs-gallery">
                     <div class="food-image image-scale-hover gallery-img">
-                        <a class="popup"><img src="https://dummyimage.com/600x900/d4d4d4/ffffff&text=menú"
+                        <a class="popup"><img src="assets/img/01.jpg"
                                 alt="Food Image" class="w-100" /></a>
                     </div>
                 </div>
@@ -283,7 +283,7 @@
             <div class="col-xl-5 align-items-center">
                 <div class="vs-food-box vs-gallery">
                     <div class="food-image image-scale-hover gallery-img">
-                        <a class="popup"><img src="https://dummyimage.com/600x900/d4d4d4/ffffff&text=menú"
+                        <a class="popup"><img src="assets/img/02.jpg"
                                 alt="Food Image" class="w-100" /></a>
                     </div>
             </div>
