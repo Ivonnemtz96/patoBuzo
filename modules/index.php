@@ -275,20 +275,18 @@
             <div class="col-xl-5 align-items-center">
                 <div class="vs-food-box vs-gallery">
                     <div class="food-image image-scale-hover gallery-img">
-                        <a class="popup"><img src="assets/img/01.jpg"
-                                alt="Food Image" class="w-100" /></a>
+                        <a class="popup"><img src="assets/img/01.jpg" alt="Food Image" class="w-100" /></a>
                     </div>
                 </div>
             </div>
             <div class="col-xl-5 align-items-center">
                 <div class="vs-food-box vs-gallery">
                     <div class="food-image image-scale-hover gallery-img">
-                        <a class="popup"><img src="assets/img/02.jpg"
-                                alt="Food Image" class="w-100" /></a>
+                        <a class="popup"><img src="assets/img/02.jpg" alt="Food Image" class="w-100" /></a>
                     </div>
+                </div>
             </div>
         </div>
-    </div>
 </section>
 
 
@@ -309,7 +307,7 @@
     </div>
     <div class="container-fluid">
         <div class="row vs-carousel" data-slidetoshow="4" data-mlslidetoshow="3" data-lgslidetoshow="3"
-            data-mdslidetoshow="2" data-smslidetoshow="1" data-xsslidetoshow="1" >
+            data-mdslidetoshow="2" data-smslidetoshow="1" data-xsslidetoshow="1">
             <div class="col-lg-3">
                 <div class="vs-gallery image-scale-hover mb-0">
                     <div class="gallery-img">
@@ -446,7 +444,7 @@
                             <li>
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                             </li>
-                           
+
                             <li>
                                 <a href="#"><i class="fab fa-instagram"></i></a>
                             </li>
@@ -455,25 +453,32 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <form action="#" class="appointment-form1 px-10 py-10 px-sm-30 py-sm-30 px-xl-80 py-xl-80 bg-white">
+                <form action="php/contact.php" method="post" class="appointment-form1 px-10 py-10 px-sm-30 py-sm-30 px-xl-80 py-xl-80 bg-white">
                     <div class="form-title text-center mb-30">
                         <h2 class="text-font3">¡Reserva ahora!</h2>
                     </div>
                     <div class="form-group mb-20">
-                        <input type="text" class="form-control dateTime-pick" placeholder="Selecciona día y hora" />
+                        <input type="text" class="form-control dateTime-pick" name="fecha"
+                            placeholder="Selecciona día y hora" />
                         <i class="fal fa-calendar-alt"></i>
                     </div>
                     <div class="form-group mb-20">
-                        <input type="number" class="form-control" placeholder="Personas" />
+                        <input type="number" class="form-control" name="personas" placeholder="Personas" />
                         <i class="fal fa-user"></i>
                     </div>
                     <div class="form-group mb-20">
-                        <input type="text" class="form-control" placeholder="Nombre" />
+                        <input type="text" class="form-control" name="nombre" placeholder="Nombre" />
                         <i class="fal fa-user"></i>
                     </div>
                     <div class="form-group mb-20">
-                        <input type="number" class="form-control" placeholder="Teléfono" />
+                        <input type="number" class="form-control" name="tel" placeholder="Teléfono" />
                         <i class="fal fa-phone"></i>
+                    </div>
+                    <div class="row" style="margin-bottom: 3rem; margin-top:3rem;">
+                        <div class="col-12 col-md-5">
+                            <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required>
+                            </div>
+                        </div>
                     </div>
                     <div class="form-btn">
                         <button type="submit" class="vs-btn mask-style1 rounded-0 w-100">

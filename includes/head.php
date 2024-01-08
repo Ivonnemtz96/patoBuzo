@@ -24,4 +24,8 @@
     <link rel="stylesheet" href="assets/css/style.css" />
     <link rel="stylesheet" href="assets/css/theme-color1.css" />
     <link rel="stylesheet" id="themeColor" href="#" />
+
+    <!-- captcha -->
+ <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 </head>
